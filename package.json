@@ -1,6 +1,6 @@
 {
   "name": "lets-deploy-github",
-  "homepage": "http://danilobml.github.io/lets-deploy-github",
+  "homepage": "http://danilobml.github.io/deploy-github",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
